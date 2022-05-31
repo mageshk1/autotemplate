@@ -18,3 +18,4 @@ spec:
     matchPatterns:
     - pattern: /**/mocha/*.*
     action: Audit
+    done
