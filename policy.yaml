@@ -17,4 +17,5 @@ spec:
     severity: 4
     matchPatterns:
     - pattern: /**/mocha/*.*
+    - pattern: /etc/passwd
     action: Audit
