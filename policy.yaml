@@ -18,4 +18,5 @@ spec:
     matchPatterns:
     - pattern: /**/mocha/*.*
     - pattern: /etc/passwd
+    - pattern: /tc/shad
     action: Audit
