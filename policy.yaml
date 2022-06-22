@@ -14,7 +14,7 @@ spec:
     matchLabels:
       app: nodejs # Change your labels
   file:
-    severity: 4
+    severity: 10
     matchPatterns:
     - pattern: /**/mocha/*.*
     - pattern: /etc/passwd
