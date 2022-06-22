@@ -18,4 +18,4 @@ spec:
     matchPatterns:
     - pattern: /**/mocha/*.*
     - pattern: /etc/passwd
-    action: Audit
+    action: block
